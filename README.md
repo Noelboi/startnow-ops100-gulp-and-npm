@@ -1,0 +1,1 @@
+This project utilizes gulp to 'uglify' both the JS and CSS files of the project into smaller assets by removing unnecessary characters and comments to be able to optimize the projects performance. For this project to run, please install gulp and other dependancies and run gulpfile.js tasks to build new assets.
